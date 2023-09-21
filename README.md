@@ -1,4 +1,4 @@
-# 📽 ANIMAÇÃO SCROLL GATINHO 
+# 📽 ANIMAÇÃO SCROLL PARALLAX 
 
 ![Se necessário atualize a página para carregamento do GIF](effectGif.gif)
 
