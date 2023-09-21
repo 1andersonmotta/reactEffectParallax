@@ -10,7 +10,7 @@ Visual Studio Code
 
 ## Uso
 Clone o Projeto no GitHub:
-https://github.com/1andersonmotta/reactGatAnimationScrollParallax
+https://github.com/1andersonmotta/reactEffectParallax
 Abra o projeto com Visual Studio Code e execute:  
 # Instale os pacotes de dependencia do projeto:  
 $ npm install  
